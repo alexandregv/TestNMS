@@ -1,0 +1,5 @@
+name: TestNMS
+author: TriiNoxYs
+version: 0.0.1
+main: fr.triinoxys.testnms.TestNMSPlugin
+commands:
