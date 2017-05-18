@@ -30,6 +30,7 @@ public class CustomZombie implements Listener{
         zombie.getEquipment().setChestplate(new ItemStack(Material.IRON_CHESTPLATE));
         zombie.getEquipment().setLeggings(new ItemStack(Material.GOLD_LEGGINGS));
         zombie.getEquipment().setBoots(new ItemStack(Material.IRON_BOOTS));
+        zombie.setSilent(true);
         
         Bukkit.getPluginManager().registerEvents(this, TestNMSPlugin.getInstance());
     }
