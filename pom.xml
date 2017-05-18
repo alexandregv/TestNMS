@@ -6,7 +6,6 @@
   <name>TestNMS</name>
   <description>Just a testing repo for my NMS tests</description>
   
-  
   <properties> 
     <maven.compiler.source>1.8</maven.compiler.source> 
     <maven.compiler.target>1.8</maven.compiler.target> 
@@ -39,8 +38,6 @@
          <scope>provided</scope>
     </dependency>
   </dependencies>
-  
-  
-  
+
   
 </project>
